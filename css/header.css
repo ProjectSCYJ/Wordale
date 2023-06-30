@@ -1,0 +1,28 @@
+.headspace {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px;
+}
+
+.menu {
+    width: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+}
+
+.title {
+    width: 30px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.settings {
+    width: 30px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
